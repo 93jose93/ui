@@ -3,7 +3,7 @@
 
 ## Se usaron los siguientes comandos para crear un sistema de loguin, registro, y recuperacion de contraseña, SISTEMA UI:AUTH
 
-composer require laravel/ui --dev 
+## 1 composer require laravel/ui --dev 
 
 instalar nuevos componentes a laravel, como sistema de loguin y registro, vistas, rutas, instalando la versión mas resiente "laravel/ui": "^2.0“ y el (--dev ) es para que se valla a la zona de desarrollo y no a producción.
 
@@ -19,11 +19,11 @@ php artisan ui vue
 
 php artisan ui react
 
-php artisan ui bootstrap --auth
+## 2 php artisan ui bootstrap --auth
 
  con este logramos agregar diseño con autenticación
 
-npm install && npm run dev 
+## 3 npm install && npm run dev 
 
 luego sugiere instalar con estos commandos
 
